@@ -16,7 +16,7 @@ The repository contains the following files:
 
 `test_set.csv:` This is the test set that is used to evaluate the model's performance.
 
-you can use the `notebooks/classification.ipynb` Jupyter notebook to train the model and make predictions.
+you can use the `Language Identification Hack Solution(LebusoTsilo).ipynb` Jupyter notebook to train the model and make predictions.
 
 Note: The model is saved in models/model.pkl.
 
