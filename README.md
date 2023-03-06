@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Explore Data Science Academy Classification Hackathon is a challenge that involves identifying the language of a given text from any of South Africa's 11 official languages. This is an example of NLP's Language Identification, which requires the task of determining the natural language that a piece of text is written in.
+**The Explore Data Science Academy Classification Hackathon** is a challenge that involves identifying the language of a given text from any of South Africa's 11 official languages. This is an example of NLP's Language Identification, which requires the task of determining the natural language that a piece of text is written in.
 
 South Africa is a multilingual country, and most South Africans are multilingual, able to speak at least two or more of the official languages. The challenge aims to build a system that can communicate in multi-languages to deepen democracy and contribute to the social, cultural, intellectual, economic and political life of the South African society.
 
